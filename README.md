@@ -80,17 +80,18 @@ restart - Restart The Bot.
 
 > [!NOTE]
 > **This Commands Works only in Channels Not PM**
-  
-* `set_cap - To set Custom Caption.
-* `del_cap - Remove Caption.
-* `del_words - To add Del Words.
-* `del_rem_words - To delete Remove words List.
-* `replace_words - To add Replace Words.
-* `del_replace_words - To Delete Replace Words.
+ <pre> 
+* set_cap - To set Custom Caption.
+* del_cap - Remove Caption.
+* del_words - To add Del Words.
+* del_rem_words - To delete Remove words List.
+* replace_words - To add Replace Words.
+* del_replace_words - To Delete Replace Words.
+ </pre>
 
 <div align="center">
   <a href="#!">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2000&pause=500&color=7928CA&center=true&vCenter=true&width=600&lines=%5B+MohammedDev+yt+%E2%84%A2+%5D;%5B+BUILDING+IN+THE+OPEN+%5D;%5B+Kick+BY+IMPACT+%5D" alt="Animated Subtext" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2000&pause=500&color=7928CA&center=true&vCenter=true&width=600&lines=%5B+MohammedDev+yt+%E2%84%A2+%5D;%5B+BUILDING+IN+THE+OPEN+%5D;%5B+KICK+BY+IMPACT+%5D" alt="Animated Subtext" />
   </a>
 </div>
 
