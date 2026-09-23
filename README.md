@@ -90,7 +90,7 @@ restart - Restart The Bot.
 
 <div align="center">
   <a href="#!">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2000&pause=500&color=7928CA&center=true&vCenter=true&width=600&lines=%5B+UNRATED+CODER+%E2%84%A2+%5D;%5B+BUILDING+IN+THE+OPEN+%5D;%5B+RATED+BY+IMPACT+%5D" alt="Animated Subtext" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2000&pause=500&color=7928CA&center=true&vCenter=true&width=600&lines=%5B+MohammedDev+yt+%E2%84%A2+%5D;%5B+BUILDING+IN+THE+OPEN+%5D;%5B+Kick+BY+IMPACT+%5D" alt="Animated Subtext" />
   </a>
 </div>
 
