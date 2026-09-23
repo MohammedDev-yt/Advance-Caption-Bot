@@ -88,6 +88,12 @@ restart - Restart The Bot.
 * `replace_words - To add Replace Words.
 * `del_replace_words - To Delete Replace Words.
 
+<div align="center">
+  <a href="#!">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=24&duration=2000&pause=500&color=7928CA&center=true&vCenter=true&width=600&lines=%5B+UNRATED+CODER+%E2%84%A2+%5D;%5B+BUILDING+IN+THE+OPEN+%5D;%5B+RATED+BY+IMPACT+%5D" alt="Animated Subtext" />
+  </a>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <details >
