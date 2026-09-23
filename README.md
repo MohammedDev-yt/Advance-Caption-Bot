@@ -78,8 +78,9 @@ restart - Restart The Bot.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3>
-<summary>
+<details >
+  <summary>
+    <h3>
 - <b> ᴅᴇᴘʟᴏʏᴍᴇɴᴛ ᴍᴇᴛʜᴏᴅs </b>
 </h3></summary>
 <h3 align="center">
@@ -119,6 +120,7 @@ Edit info.py with variables as given below then run bot
 python3 bot.py
 </pre>
 </p>
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
