@@ -78,6 +78,18 @@ restart - Restart The Bot.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+> [!NOTE]
+> **This Commands Works only in Channels Not PM**
+  
+* `set_cap - To set Custom Caption.
+* `del_cap - Remove Caption.
+* `del_words - To add Del Words.
+* `del_rem_words - To delete Remove words List.
+* `replace_words - To add Replace Words.
+* `del_replace_words - To Delete Replace Words.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <details >
   <summary>
     <h3>
