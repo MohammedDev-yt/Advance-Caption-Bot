@@ -47,8 +47,7 @@ async def is_banned(user_id):
 # ------------------------ #
 
 @Client.on_message(
-    filters.private,
-    group=-100
+    filters.private
 )
 async def check_banned_user(client, message):
 
