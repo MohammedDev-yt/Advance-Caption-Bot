@@ -51,15 +51,15 @@ del_words - To add Del Words.
 del_rem_words - To delete Remove words List.
 replace_words - To add Replace Words.
 del_replace_words - To Delete Replace Words.
-broadcast - Boadcast Message To Users.
-total_users - Total No. Of Users.
-ban - Ban a user
-unban - Unban a user
-banlist - Check ban users
-addadmin - Add a admin 
-removeadmin - Remove a admin 
-adminlist - Check Admin added list
-restart - Restart The Bot.
+broadcast - Boadcast Message To Users [Owner only]
+total_users - Total No. Of Users [Owner only]
+ban - Ban a user [Owner only]
+unban - Unban a user [Owner only]
+banlist - Check ban users [Owner only]
+addadmin - Add a admin [Owner only]
+removeadmin - Remove a admin [Owner only]
+adminlist - Check Admin added list [Owner only]
+restart - Restart The Bot [Owner only]
 </pre>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
