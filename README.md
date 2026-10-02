@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6A00FF,100:00C8FF&height=180&section=header&text=ADVANCE%20CAPTION%20BOT&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developed%20By%20Mohammed&descAlignY=60&descSize=16" width="100%">
+</p>
+
+
 <h2 align="center">
   ─「 ᴀᴅᴠᴀɴᴄᴇ ᴄᴀᴘᴛɪᴏɴ ʙᴏᴛ 」─
 </h2>
@@ -156,4 +161,12 @@ python3 bot.py
   If you like this bot, give it a ⭐ on GitHub to support the project!  
   <a href="https://github.com/MohammedDev-yt/Advance-Caption-Bot" target="_blank">
   </a>
+</p>
+
+<p align="center">
+  <b>Made with ❤️ by Mohammed</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6A00FF,100:00C8FF&height=120&section=footer"/>
 </p>
